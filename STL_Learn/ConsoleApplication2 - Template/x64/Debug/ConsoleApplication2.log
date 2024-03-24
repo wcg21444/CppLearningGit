@@ -1,0 +1,25 @@
+﻿  Main.cpp
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\Main.cpp(7,23): warning C4305: “初始化”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\Main.cpp(7,28): warning C4305: “初始化”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\Main.cpp(7,32): warning C4305: “初始化”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\custom_vector.h(82,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\custom_vector.h(79,1): message : 在编译 类 模板 成员函数“vector<float>::vector(std::initializer_list<T>)”时
+          with
+          [
+              T=float
+          ]
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\Main.cpp(7,22): message : 请参阅 "main" 中对 "vector<float>::vector" 的第一个引用
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\Main.cpp(7,16): message : 查看对正在编译的 类 模板 实例化“vector<float>”的引用
+  ConsoleApplication2.vcxproj -> C:\Users\R\vs\c++\ConsoleApplication2 - Template\x64\Debug\ConsoleApplication2.exe

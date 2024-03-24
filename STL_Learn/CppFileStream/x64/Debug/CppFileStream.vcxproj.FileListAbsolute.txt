@@ -1,0 +1,4 @@
+C:\Users\R\vs\c++\CppFileStream\x64\Debug\CppFileStream.exe
+C:\Users\R\vs\c++\CppFileStream\x64\Debug\CppFileStream.exe.lastcodeanalysissucceeded
+C:\Users\R\vs\c++\CppFileStream\x64\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\R\vs\c++\STL_Learn\CppFileStream\x64\Debug\CppFileStream.exe

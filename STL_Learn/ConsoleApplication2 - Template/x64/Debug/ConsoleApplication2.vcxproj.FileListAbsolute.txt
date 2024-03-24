@@ -1,0 +1,2 @@
+C:\Users\R\vs\c++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+C:\Users\R\vs\c++\ConsoleApplication2 - Template\x64\Debug\ConsoleApplication2.exe

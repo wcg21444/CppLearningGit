@@ -1,0 +1,4 @@
+﻿  Sort.cpp
+C:\Users\R\vs\c++\STL_Learn\CppFileStream\Sort.cpp(84,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\R\vs\c++\STL_Learn\CppFileStream\Sort.cpp(65): warning C4715: “sort”: 不是所有的控件路径都返回值
+  CppFileStream.vcxproj -> C:\Users\R\vs\c++\STL_Learn\CppFileStream\x64\Debug\CppFileStream.exe
